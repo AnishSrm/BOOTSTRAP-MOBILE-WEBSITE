@@ -1,0 +1,26 @@
+#mainbar a:hover{
+    background-color: lightblue;
+}
+#photo{
+    height:100%
+}
+#punny{
+    padding-top: 10rem;
+    margin-left: 10rem;
+}
+#content{
+    font-weight:600;
+    color: rgb(200, 150, 150);
+    margin-right: 25rem;
+    font-size:1.3rem;
+    font-weight: 600;
+}  
+.secpic{
+    width: 100%;
+    height: 100%;
+}
+#right{
+    background-image: url(imgs/mobile2.jpg);
+    
+   
+}
